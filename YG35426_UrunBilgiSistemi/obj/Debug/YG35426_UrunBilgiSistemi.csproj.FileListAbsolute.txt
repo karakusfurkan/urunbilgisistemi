@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\bin\Debug\YG35426_UrunBilgiSistemi.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\bin\Debug\YG35426_UrunBilgiSistemi.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\bin\Debug\YG35426_UrunBilgiSistemi.pdb
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.pdb
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\bin\Debug\YG35426_UrunBilgiSistemi.exe.config
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\bin\Debug\YG35426_UrunBilgiSistemi.exe
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\bin\Debug\YG35426_UrunBilgiSistemi.pdb
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.Form1.resources
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.Properties.Resources.resources
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.exe
+C:\Users\CeyhunKarakuş\Desktop\GitHub\BilgeAdam\BilgeAdam\YG35426\OOP\YG35426_UrunBilgiSistemi\YG35426_UrunBilgiSistemi\obj\Debug\YG35426_UrunBilgiSistemi.pdb
